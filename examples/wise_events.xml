@@ -1,0 +1,43 @@
+<WwiseDocument>
+  <Events>
+    <Event Name="Play_Footstep" ID="2837384910">
+      <Action ObjectPath="\SFX\Footstep" />
+    </Event>
+    <Event Name="Play_Explosion" ID="3182986471">
+      <Action ObjectPath="\SFX\Explosion" />
+    </Event>
+    <Event Name="Play_Footstep_Concrete" ID="1234567890">
+      <Action ObjectPath="\SFX\Footsteps\Concrete" />
+    </Event>
+    <Event Name="Play_Footstep_Grass" ID="2345678901">
+      <Action ObjectPath="\SFX\Footsteps\Grass" />
+    </Event>
+    <Event Name="Play_Explosion_Small" ID="3456789012">
+      <Action ObjectPath="\SFX\Explosions\Small" />
+    </Event>
+    <Event Name="Play_Explosion_Large" ID="4567890123">
+      <Action ObjectPath="\SFX\Explosions\Large" />
+    </Event>
+    <Event Name="Play_Gunshot_Pistol" ID="5678901234">
+      <Action ObjectPath="\SFX\Weapons\Pistol" />
+    </Event>
+    <Event Name="Play_Gunshot_Rifle" ID="6789012345">
+      <Action ObjectPath="\SFX\Weapons\Rifle" />
+    </Event>
+    <Event Name="Play_Ambient_Wind" ID="7890123456">
+      <Action ObjectPath="\Ambience\Wind" />
+    </Event>
+    <Event Name="Play_Music_Battle" ID="8901234567">
+      <Action ObjectPath="\Music\Battle" />
+    </Event>
+    <Event Name="Play_UI_Button_Click" ID="9012345678">
+      <Action ObjectPath="\UI\Button_Click" />
+    </Event>
+    <Event Name="Play_Character_Death" ID="0123456789">
+      <Action ObjectPath="\SFX\Character\Death" />
+    </Event>
+    <Event Name="Play_Unused_Event" ID="9999999999">
+      <Action ObjectPath="\SFX\Unused" />
+    </Event>
+  </Events>
+</WwiseDocument>

@@ -1,0 +1,9 @@
+{
+  "audio_events": [
+    "Play_Footstep_Concrete", "Play_Footstep_Concrete", "Play_Footstep_Concrete",
+    "Play_Gunshot_Pistol", "Play_Gunshot_Pistol",
+    "Play_Explosion_Small",
+    "Play_UI_Button_Click", "Play_UI_Button_Click", "Play_UI_Button_Click", "Play_UI_Button_Click",
+    "Play_Ambient_Wind"
+  ]
+}
